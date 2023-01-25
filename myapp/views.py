@@ -7,7 +7,7 @@ from .serializers import TaskSerializer
 
 #
 def hello(request):
-    return HttpResponse("Hello World!")
+    return HttpResponse("Hello World! kya baat hai website bana raha launada")
 
 
 class TaskViewSet(viewsets.ModelViewSet):
