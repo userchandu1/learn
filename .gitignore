@@ -1,0 +1,3 @@
+venvlearn/
+*.pyc
+db.sqlite3
